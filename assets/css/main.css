@@ -634,6 +634,10 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
 		}
+		.icon.far:before {
+			font-family: 'Font Awesome 5 Brands';
+		}
+
 
 /* Image */
 
